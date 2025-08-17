@@ -1,0 +1,12 @@
+line-bot-sdk
+flask
+gunicorn
+opencv-python
+mediapipe
+imutils
+pandas 
+openpyxl
+obspy
+scikit-learn
+tqdm
+PyWavelets

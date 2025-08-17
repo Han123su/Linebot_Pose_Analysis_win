@@ -1,0 +1,36 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 843
+    },
+    "selected": true,
+    "name": "PoseSelectMenu",
+    "chatBarText": "請選擇影片角度",
+    "areas": [
+      {
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1250,
+          "height": 843
+        },
+        "action": {
+          "type": "message",
+          "text": "選擇背面影片"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1251,
+          "y": 0,
+          "width": 1249,
+          "height": 843
+        },
+        "action": {
+          "type": "message",
+          "text": "選擇側面影片"
+        }
+      }
+    ]
+  }
+  
